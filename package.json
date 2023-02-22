@@ -37,6 +37,7 @@
   },
   "homepage": "https://github.com/tallyb/cucumber-playwright#readme",
   "dependencies": {
+    "@axe-core/playwright": "^4.5.0",
     "@cucumber/cucumber": "8.7.0",
     "@cucumber/html-formatter": "20.1.0",
     "@cucumber/messages": "^19.0.0",
@@ -49,8 +50,8 @@
     "pngjs": "6.0.0"
   },
   "devDependencies": {
-    "@types/fs-extra": "9.0.13",
     "@types/expect": "24.3.0",
+    "@types/fs-extra": "9.0.13",
     "@types/lodash": "4.14.188",
     "@types/node": "16.11.62",
     "@types/pixelmatch": "5.2.4",

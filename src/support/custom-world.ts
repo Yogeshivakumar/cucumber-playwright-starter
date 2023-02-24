@@ -28,3 +28,4 @@ export class CustomWorld extends World implements ICustomWorld {
 }
 
 setWorldConstructor(CustomWorld);
+// test123
